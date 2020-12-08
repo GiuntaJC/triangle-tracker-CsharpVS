@@ -4,7 +4,7 @@
 
 ## Description
 
-Take three numbers from user input and check to see if they form a triangle. Whether an equilatoral, isosceles, or scalene variation. 
+Take three numbers from user input and check to see if they form a triangle. Whether an equilatoral, isosceles, or scalene variation. C# Practice Project.
 
 ## Specs
 
